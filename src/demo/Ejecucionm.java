@@ -7,10 +7,12 @@ public class Ejecucionm {
 	int y=2;
 	int z=3;
 	int m=4;
+	int q=5;
 	System.out.print(x);
 	System.out.print(y);
 	System.out.print(m);
 	System.out.print(z);
+	System.out.print(q);
 	
 	
 	}
